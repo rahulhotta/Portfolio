@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.450d6b14.css",
+    "main.js": "/static/js/main.fd043b97.js",
+    "static/media/meme-generator.jpg": "/static/media/meme-generator.28add2cbd878a25d61c8.jpg",
+    "static/media/home-page-main-logo.png": "/static/media/home-page-main-logo.8282b8a2e6e77ab88071.png",
+    "static/media/my-logo-3.jpg": "/static/media/my-logo-3.15a5c20e47851404b3bd.jpg",
+    "static/media/the-notes-app.jpg": "/static/media/the-notes-app.96f272be59eb2f5b3247.jpg",
+    "static/media/simon-game.jpg": "/static/media/simon-game.707792febbf6e9928634.jpg",
+    "static/media/the-music-galary.jpg": "/static/media/the-music-galary.2e02a410583500f7fbca.jpg",
+    "index.html": "/index.html",
+    "main.450d6b14.css.map": "/static/css/main.450d6b14.css.map",
+    "main.fd043b97.js.map": "/static/js/main.fd043b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450d6b14.css",
+    "static/js/main.fd043b97.js"
+  ]
+}
